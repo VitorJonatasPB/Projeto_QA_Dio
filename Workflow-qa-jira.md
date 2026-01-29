@@ -1,6 +1,6 @@
 # Workflow de QA no Jira
 
-Este documento descreve o fluxo de trabalho sugerido para o time de QA utilizando o Jira, incluindo os status, transições e boas práticas.
+Este documento descreve o fluxo de trabalho sugerido para o time de QA utilizando o Jira, incluindo os status e transições.
 
 ## 1. Estados principais da issue
 
